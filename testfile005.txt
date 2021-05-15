@@ -1,0 +1,23 @@
+The incremental approach involves making a series of small changes to the
+project to improve its functioning. Incrementals are regularly used in the
+technology industry, especially when companies need to improve their
+product line or include new features for appealing to customers’ desired
+preferences (Kurnia et al., 2018; Scrum Alliance, 2019). The incremental
+process is work divided or sliced into pieces known as increments. For
+example, a company could have software that requires some bug fixing,
+building, user stories, and so forth. The increment stage takes this into
+consideration, then starts building the software little by little until it is made.
+Both these approaches connect within the Agile methodology. Iterative and
+incremental software development enables an increase in features with each
+cycle release and upgrade. The end result of the iteration is a fully working
+product, which additional functionality can be added to in future increments.
+Agile Scrum development, when implementing these two approaches, is
+based on a short iterative cycle of 1-4 weeks. Furthermore, in this process,
+the team can take the increments and make the changes to them one by one.
+In other words, the Scrum methodology focuses on developing new, intricate
+software, which can lead to good results, especially when the team is
+provided with objectives rather than assignments. The Scrum Team is in
+charge of how they intend to meet the objectives set forth. Scrum can also
+define the timebox of the iterative process or the time within which working
+software should be delivered. Any team can use this methodology to see
+projects become simpler and more rapid than they were before.
