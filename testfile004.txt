@@ -1,0 +1,25 @@
+Since the recent advancements in technology, Agile Development has
+become the new framework for developing high quality software. What is the
+reason you might ask? Well, Agile development is based on the idea that
+when a project is managed by a disciplined group of people, working
+together, the project is likely to be of high-quality.
+Because of this methodology, technology companies such as IBM, Google,
+Apple, and 3M have adopted the model into their software building process
+(Barcelos & Silva, 2020; Kurnia et al., 2018). Not only does using the agile
+process make it easier for tech companies to plan projects, but it also makes it
+easier to build effective software and electronics according to the customer’s
+specifications.
+As a professional engineer and developer, it is important for you to
+understand the additive and iterative phases that you will experience while
+using the agile development method. It is a continuous process of improving
+the software and seeking the feedback of customers to reach the final point in
+the software development process (Barcelos & Silva, 2020). Agile may seem
+like a complicated process, but once you have an understanding of the
+method, it will come as second nature.
+In fact, some organizations avoid using the agile development process due to
+issues that arise with management and organizational culture, employee work
+relationship, adapting or changing from a process-centric development to
+feature-drive, and suitable technologies due to availability (Barcelos & Silva,
+2020). Thus, not everyone agrees with the method, but because of its
+effectiveness in software development, many companies are adopting the
+different methodologies surrounding agile which will be discussed later on.
